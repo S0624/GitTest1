@@ -30,6 +30,10 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
         // ‰æ–Ê‚ÌƒNƒŠƒA
         ClearDrawScreen();
 
+
+        //DrawString(0, 0, "0", 0xffffff);
+
+
         // — ‰æ–Ê‚ð•\‰æ–Ê‚ð“ü‚ê‘Ö‚¦‚é
         ScreenFlip();
 
